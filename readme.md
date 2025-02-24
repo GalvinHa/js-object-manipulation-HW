@@ -1,2 +1,0 @@
-//result
-console.log(sculptureListLengths);
